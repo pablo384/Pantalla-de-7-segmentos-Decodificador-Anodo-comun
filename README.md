@@ -1,4 +1,4 @@
-# Pantalla-de-7-segmentos-Decodificador-
+# Pantalla de 7 segmentos Decodificador
 Decodificador de pantalla de 7  segmentos con Ánodo común en base a una entrada de 3bit escrito en VHDL.
 
 **Instrucciones**
@@ -9,4 +9,6 @@ Decodificador de pantalla de 7  segmentos con Ánodo común en base a una entrad
 ![GitHub Logo](/imagenes/pantalla.png)
 
 **Tabla y posibles convinaciones**
+
+
 ![GitHub Logo](/imagenes/tabla.png)
